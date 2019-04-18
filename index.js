@@ -4,6 +4,7 @@ function takeANumber (katzDeli, name) {
   return (`Welcome, ${name}. You are number ${katzDeli.length} in line.`);
 }
 
+
 function nowServing(katzDeli) {
   let i= 0
   while (i < katzDeli.length) {
@@ -17,3 +18,8 @@ function nowServing(katzDeli) {
 }
 
 
+function currentLine (line) {
+  
+  
+  
+}
